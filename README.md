@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Rausch
+## 👋 Hi, I’m David Rausch
 - 👀 I’m interested in 
 - Game Development
 - 🌱 I’m currently learning ...
