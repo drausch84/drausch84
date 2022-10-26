@@ -37,7 +37,7 @@
 ## 📫 How to reach me ...
 - rausch.david84@gmail.com
 - rauschdevelopment.io@gmail.com
-- wwww.rauschdevelopment.com
+- www.rauschdevelopment.com
 
 <!---
 drausch84/drausch84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
